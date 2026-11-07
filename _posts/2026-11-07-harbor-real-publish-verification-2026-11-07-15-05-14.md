@@ -1,6 +1,6 @@
 ---
 title: "Harbor real publish verification 2026-11-07 15:05:14"
-date: "2026-11-07 07:05:16 +0000"
+date: "2026-11-07 07:08:09 +0000"
 tags: [verification, harbor]
 description: "Dated real publish verification for Harbor 0.15.0"
 ---
@@ -16,4 +16,7 @@ Verification timestamp: 2026-11-07 15:05:14
 
 If you are reading this on the rendered site, the whole chain worked:
 adapter -> commit -> Pages build -> public URL.
+
+
+Updated in place by the same adapter.
 
